@@ -1,9 +1,8 @@
 {
 	"uuid":"ec6fa433-c9ee-49c0-9491-bc35a2e46fea",
 	"title": "广播电台",
-        "type":"radio",	
 	"channels": 
-	[		
+[		
 		{
 			"name":"萤火虫网络电台",
 			"url": "http://live.xmcdn.com/live/1006/64.m3u8"
@@ -52,6 +51,8 @@
 			"name":"CNR 音乐之声",
 			"url": "http://live.xmcdn.com/live/12/64.m3u8"
 		}
-    ]
+]
 
-    }
+	
+	
+}
