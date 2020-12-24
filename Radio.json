@@ -1,0 +1,57 @@
+{
+	"uuid":"ec6fa433-c9ee-49c0-9491-bc35a2e46fea",
+	"title": "广播电台",
+    "type":"radio",	
+	"channels": 
+	[		
+		{
+			"name":"萤火虫网络电台",
+			"url": "http://live.xmcdn.com/live/1006/64.m3u8"
+		},
+		{
+			"name":"清晨音乐电台",
+			"url": "http://ls.qingting.fm/live/4915.m3u8"
+		},
+		{
+			"name":"怀集音乐电台v",
+			"url": "http://ls.qingting.fm/live/4804.m3u8"
+		}
+				{
+			"name":"CRI Hit FM FM88.7",
+			"url": "http://sk.cri.cn/887.m3u8"
+		},
+		{
+			"name":"CRI 轻松调频 FM91.5",
+			"url": "http://sk.cri.cn/915.m3u8"
+		},
+		{
+			"name":"CRI Easy FM91.5",
+			"url": "http://stm1.rthk.hk/radio3"
+		}
+				{
+			"name":"明星FM",
+			"url": "http://ls.qingting.fm/live/91019.m3u8"
+		},
+		{
+			"name":"北京好音乐 FM95.9",
+			"url": "http://live.xmcdn.com/live/964/64.m3u8"
+		},
+		{
+			"name":"北京音乐广播 FM97.4",
+			"url": "http://live.xmcdn.com/live/95/64.m3u8"
+		}
+				{
+			"name":"上海动感101 FM101.7",
+			"url": "http://live.xmcdn.com/live/53/64.m3u8"
+		},
+		{
+			"name":"金十电台 信息资讯类",
+			"url": "http://fmcdn.jin10.com/AAC/voice.m3u8"
+		}
+				{
+			"name":"CNR 音乐之声",
+			"url": "http://live.xmcdn.com/live/12/64.m3u8"
+		}
+    ]
+
+    }
