@@ -1,4 +1,7 @@
-{"uuid":"ec6fa433-c9ee-49c0-9491-bc35a2e46fea","title":"央视体育频道","channels":
+{
+  "uuid":"ec6fa433-c9ee-49c0-9491-bc35a2e46fea",
+  "title":"央视体育频道",
+  "channels":
 [
 {"name":"CCTV 5-源1","url":"http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8"},
 {"name":"CCTV 5-源2","url":"http://112.17.40.140/PLTV/88888888/224/3221226562/index.m3u8"},
