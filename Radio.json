@@ -1,16 +1,3 @@
-{
-	"uuid":"ec6fa433-c9ee-49c0-9491-bc35a2e46fea",
-	"title": "电台",
-
-	"channels":
-  
-
-
-[
-{"name":"萤火虫网络电台","url":"http://live.xmcdn.com/live/1006/64.m3u8"},
-{"name":"萤火虫网络电台","url":"http://ls.qingting.fm/live/4998.m3u8"}
-]
-
-	
-	
-}
+#EXTM3U
+#EXTINF:-1, 千局1
+https://135zyv6.xw0371.com/2019/03/19/K9W3TbRk4Ge0oiF7/playlist.m3u8
