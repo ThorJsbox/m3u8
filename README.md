@@ -4,4 +4,4 @@
 https://cdn.jsdelivr.net/
 
 例子:
-https://cdn.jsdelivr.net/gh/thorjsbox/m3u8@main/JiexiList.json
+https://cdn.jsdelivr.net/gh/thorjsbox/m3u8@master/JiexiList.json
