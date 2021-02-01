@@ -35,6 +35,8 @@ http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="zhibo",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="zhibo",动漫秀场
+http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226145/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="zhibo",CGTN高清
 http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="zhibo",CGTN DOC高清
