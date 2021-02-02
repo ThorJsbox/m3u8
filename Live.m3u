@@ -69,7 +69,7 @@ http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",重庆卫视
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",福建东南卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",福建卫视
 http://ivi.bupt.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",四川卫视
 http://ivi.bupt.edu.cn/hls/schd.m3u8
@@ -119,9 +119,9 @@ http://live.centerch.com/fhzx.m3u8
 http://ivi.bupt.edu.cn.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",香港卫视
 http://ivi.bupt.edu.cn.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",TVB翡翠(台语)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",TVB翡翠
 http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",TVB翡翠(台语)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",TVB翡翠
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",TVB明珠
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -171,7 +171,7 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="183.207.248.71",CCTV-17 农业
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="183.207.248.71",CETV-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="183.207.248.71",CETV-1 教育
 http://183.207.248.71:80/cntv/live1/n-jiaoyutv/n-jiaoyutv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="183.207.248.71",CETV-2
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
@@ -297,7 +297,7 @@ http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
 http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="183.207.248.71",NewTV精品综合
 http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="183.207.248.71",NewTV黑莓电竞之夜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="183.207.248.71",NewTV黑莓电竞
 http://183.207.248.71:80/cntv/live1/wmyx/wmyx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="183.207.248.71",NewTV黑莓电影
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
@@ -391,7 +391,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="39.134.115.163",重庆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="39.134.115.163",福建东南卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="39.134.115.163",福建卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="39.134.115.163",四川卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
