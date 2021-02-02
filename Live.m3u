@@ -1,5 +1,5 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",CCTV-1
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="ivi.bupt.edu.cn",CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",CCTV-2
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
