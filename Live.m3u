@@ -141,6 +141,9 @@ rtmp://58.200.131.2:1935/livetv/discovery
 rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="zhibo",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTM3U 备用直播地址
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LivePlay",CCTV-1 综合
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="zhibo",CCTV-1 综合
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="zhibo",CCTV-2 财经
