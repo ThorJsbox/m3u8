@@ -141,3 +141,13 @@ rtmp://58.200.131.2:1935/livetv/discovery
 rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="zhibo",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LivePlaying",CCTV-1
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LivePlaying",CCTV-2
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LivePlaying",CCTV-3
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LivePlaying",CCTV-4
+http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LivePlaying",CCTV-5
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
