@@ -207,7 +207,6 @@
             "site_category":"av",
 			"site_api_url": "http://bttcj.com/inc/sapi.php"
 		},
-       
         {
 			"site_title": "3合资源",
             "site_category":"av",
@@ -229,5 +228,4 @@
 			"site_api_url": "https://api.apibdzy.com/api.php/provide/vod/at/xml"
 		}
 	]
-
 }
