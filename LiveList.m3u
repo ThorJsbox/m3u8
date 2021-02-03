@@ -109,12 +109,8 @@ http://ivi.bupt.edu.cn/hls/bttv.m3u8
 http://ivi.bupt.edu.cn/hls/ybtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",凤凰中文
 http://hdtv.haust.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",凤凰中文
-http://live.centerch.com/fhzw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",凤凰资讯
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",凤凰资讯
-http://live.centerch.com/fhzx.m3u8
+http://223.82.250.72/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",香港卫视
 http://ivi.bupt.edu.cn.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",香港卫视
