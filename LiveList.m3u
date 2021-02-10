@@ -423,3 +423,37 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="39.134.115.163",黑莓电竞
 http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",纯享4K
+http://112.25.63.196:8080/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-1
+http://223.111.204.154:8080/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV2
+http://223.111.204.154:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-3
+http://223.111.204.154:8080/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-4
+http://223.111.204.154:8080/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-5
+http://223.111.204.154:8080/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-6
+http://223.111.204.154:8080/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-7
+http://223.111.204.154:8080/gitv_live/G_CCTV-7-MD/G_CCTV-7-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-8
+http://223.111.204.154:8080/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-9
+http://223.111.204.154:8080/gitv_live/G_CCTV-9-MD/G_CCTV-9-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-10
+http://223.111.204.154:8080/gitv_live/G_CCTV-10-MD/G_CCTV-10-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-11
+http://223.111.204.154:8080/gitv_live/G_CCTV-11-MD/G_CCTV-11-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-12
+http://223.111.204.154:8080/gitv_live/G_CCTV-12-MD/G_CCTV-12-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-13
+http://223.111.204.154:8080/gitv_live/G_CCTV-13-MD/G_CCTV-13-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-14
+http://223.111.204.154:8080/gitv_live/G_CCTV-14-MD/G_CCTV-14-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-15
+http://223.111.204.154:8080/gitv_live/G_CCTV-15-MD/G_CCTV-15-MD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-17
+http://223.111.204.154:8080/gitv_live/G_CCTV-17-MD/G_CCTV-17-MD.m3u8
