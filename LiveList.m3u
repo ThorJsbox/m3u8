@@ -427,7 +427,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 http://112.25.63.196:8080/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-1
 http://223.111.204.154:8080/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-2
 http://223.111.204.154:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="GitvLive",CCTV-3
 http://223.111.204.154:8080/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8
