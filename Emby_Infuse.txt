@@ -22,8 +22,8 @@ https://servers.xeton.dev/443
 普拉斯影业
 plusisbest
 
-https://emby.neko.edu.rs
-http://emby.ok.edu.hk
+https://emby.neko.edu.rs:443
+http://emby.ok.edu.hk:443
 有NSFW内容
 Guest
 1234
